@@ -1,0 +1,41 @@
+#red
+
+apple
+cherry
+raspberry
+strawberry
+cranberry
+lingonberry
+tomato
+pomegranate
+
+# orange
+
+navel orange
+clementines
+tangerines
+blood orange
+kumquat
+
+#yellow
+
+banana
+lemon
+yuja
+
+#blue
+blueberry
+blackberry
+elderberry
+black currant
+
+#pink
+
+watermelon
+loganberry
+dragonfruit
+grapefruit
+pink lady apple
+cara cara orange
+pink passion fruit
+
